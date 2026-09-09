@@ -6,6 +6,9 @@
 
 A concise, end-to-end PostgreSQL guide for answering data analytics questions. It starts with tables and filters, then builds through aggregation, joins, dates, window functions, data changes, performance, and one complete analytical query.
 
+- [Download the complete SQL lesson notebook](PASTE_NOTEBOOK_RAW_URL_HERE)
+- [View the concise SQL summary notes](PASTE_CHEATSHEET_URL_HERE)
+
 > Start with a question and define the output grain: **what should one result row represent?**
 
 ## How to use this guide
