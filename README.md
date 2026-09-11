@@ -7,7 +7,7 @@
 A concise, end-to-end PostgreSQL guide for answering data analytics questions. It starts with tables and filters, then builds through aggregation, joins, dates, window functions, data changes, performance, and one complete analytical query.
 
 - [Download the complete SQL lesson notebook](https://github.com/ReneGreblicki/SQL_guide/blob/main/notebook/SQL_Lesson_Notebook.docx)
-- [View and ](https://github.com/ReneGreblicki/SQL_guide/blob/main/notes/README.md) [download the concise SQL summary notes](https://github.com/ReneGreblicki/SQL_guide/tree/main/notes/download_notes)
+- [Download the 18-page visual cheatsheet](https://github.com/ReneGreblicki/SQL_guide/tree/main/notes/download_notes)
 
 ## How to use this guide
 
@@ -1244,6 +1244,11 @@ relevant chapter for specialist options.
 - [Common table expressions](https://www.postgresql.org/docs/18/queries-with.html)
 - [Functions and operators](https://www.postgresql.org/docs/18/functions.html)
 - [Expressions](https://www.postgresql.org/docs/18/sql-expressions.html)
+
+---
+
+## Visual cheatsheets
+
 - [Data definition](https://www.postgresql.org/docs/18/ddl.html)
 - [Transactions](https://www.postgresql.org/docs/18/tutorial-transactions.html)
 - [Triggers](https://www.postgresql.org/docs/18/plpgsql-trigger.html)
