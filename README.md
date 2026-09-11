@@ -1244,14 +1244,32 @@ relevant chapter for specialist options.
 - [Common table expressions](https://www.postgresql.org/docs/18/queries-with.html)
 - [Functions and operators](https://www.postgresql.org/docs/18/functions.html)
 - [Expressions](https://www.postgresql.org/docs/18/sql-expressions.html)
-
----
-
-## Visual cheatsheets
-
 - [Data definition](https://www.postgresql.org/docs/18/ddl.html)
 - [Transactions](https://www.postgresql.org/docs/18/tutorial-transactions.html)
 - [Triggers](https://www.postgresql.org/docs/18/plpgsql-trigger.html)
 - [Using EXPLAIN](https://www.postgresql.org/docs/18/using-explain.html)
 
 Examples use one invented dataset throughout. The guide is designed as a concise reference and contains no practice questions.
+
+---
+
+## Visual cheatsheets
+
+![SQL Cheatsheet 01](download_notes/SQL_Cheatsheet_01.png)
+![SQL Cheatsheet 02](download_notes/SQL_Cheatsheet_02.png)
+![SQL Cheatsheet 03](download_notes/SQL_Cheatsheet_03.png)
+![SQL Cheatsheet 04](download_notes/SQL_Cheatsheet_04.png)
+![SQL Cheatsheet 05](download_notes/SQL_Cheatsheet_05.png)
+![SQL Cheatsheet 06](download_notes/SQL_Cheatsheet_06.png)
+![SQL Cheatsheet 07](download_notes/SQL_Cheatsheet_07.png)
+![SQL Cheatsheet 08](download_notes/SQL_Cheatsheet_08.png)
+![SQL Cheatsheet 09](download_notes/SQL_Cheatsheet_09.png)
+![SQL Cheatsheet 10](download_notes/SQL_Cheatsheet_10.png)
+![SQL Cheatsheet 11](download_notes/SQL_Cheatsheet_11.png)
+![SQL Cheatsheet 12](download_notes/SQL_Cheatsheet_12.png)
+![SQL Cheatsheet 13](download_notes/SQL_Cheatsheet_13.png)
+![SQL Cheatsheet 14](download_notes/SQL_Cheatsheet_14.png)
+![SQL Cheatsheet 15](download_notes/SQL_Cheatsheet_15.png)
+![SQL Cheatsheet 16](download_notes/SQL_Cheatsheet_16.png)
+![SQL Cheatsheet 17](download_notes/SQL_Cheatsheet_17.png)
+![SQL Cheatsheet 18](download_notes/SQL_Cheatsheet_18.png)
