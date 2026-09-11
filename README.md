@@ -7,7 +7,7 @@
 A concise, end-to-end PostgreSQL guide for answering data analytics questions. It starts with tables and filters, then builds through aggregation, joins, dates, window functions, data changes, performance, and one complete analytical query.
 
 - [Download the complete SQL lesson notebook](https://github.com/ReneGreblicki/SQL_guide/blob/main/notebook/SQL_Lesson_Notebook.docx)
-- [View and ](https://github.com/ReneGreblicki/SQL_guide/blob/main/notes/README.md) [download the concise SQL summary notes](https://github.com/ReneGreblicki/SQL_guide/tree/main/notes/download_notes)
+- [Download the 18-page visual cheatsheet](https://github.com/ReneGreblicki/SQL_guide/tree/main/notes/download_notes)
 
 ## How to use this guide
 
@@ -1250,3 +1250,26 @@ relevant chapter for specialist options.
 - [Using EXPLAIN](https://www.postgresql.org/docs/18/using-explain.html)
 
 Examples use one invented dataset throughout. The guide is designed as a concise reference and contains no practice questions.
+
+---
+
+## Visual cheatsheets
+
+![SQL Cheatsheet 01](download_notes/SQL_Cheatsheet_01.png)
+![SQL Cheatsheet 02](download_notes/SQL_Cheatsheet_02.png)
+![SQL Cheatsheet 03](download_notes/SQL_Cheatsheet_03.png)
+![SQL Cheatsheet 04](download_notes/SQL_Cheatsheet_04.png)
+![SQL Cheatsheet 05](download_notes/SQL_Cheatsheet_05.png)
+![SQL Cheatsheet 06](download_notes/SQL_Cheatsheet_06.png)
+![SQL Cheatsheet 07](download_notes/SQL_Cheatsheet_07.png)
+![SQL Cheatsheet 08](download_notes/SQL_Cheatsheet_08.png)
+![SQL Cheatsheet 09](download_notes/SQL_Cheatsheet_09.png)
+![SQL Cheatsheet 10](download_notes/SQL_Cheatsheet_10.png)
+![SQL Cheatsheet 11](download_notes/SQL_Cheatsheet_11.png)
+![SQL Cheatsheet 12](download_notes/SQL_Cheatsheet_12.png)
+![SQL Cheatsheet 13](download_notes/SQL_Cheatsheet_13.png)
+![SQL Cheatsheet 14](download_notes/SQL_Cheatsheet_14.png)
+![SQL Cheatsheet 15](download_notes/SQL_Cheatsheet_15.png)
+![SQL Cheatsheet 16](download_notes/SQL_Cheatsheet_16.png)
+![SQL Cheatsheet 17](download_notes/SQL_Cheatsheet_17.png)
+![SQL Cheatsheet 18](download_notes/SQL_Cheatsheet_18.png)
